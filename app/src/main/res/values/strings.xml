@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SensorDatabaseApplication</string>
+    <string name="textview_username">username</string>
+    <string name="button_username">GO</string>
+
+    <string name="text_state_notlogin">please login</string>
+    <string name="text_state_logging">now logging</string>
+    <string name="text_state_initialized">initialized</string>
+    <string name="text_state_running">running</string>
+    <string name="text_state_standby">standby</string>
+    <string name="button_start">START</string>
+    <string name="button_stop">STOP</string>
+</resources>
